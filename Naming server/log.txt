@@ -1,0 +1,2837 @@
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : GETINFO
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : GETINFO
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : DELETE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : DELETE
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : DELETE
+Request data                      : Response received from storage server
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : DELETE
+Request data                      : File Deleted
+
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : CREATE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CREATE
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CREATE
+Request data                      : Response received from storage server
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : CREATE
+Request data                      : File Updated
+
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Storage Server : -286408704
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping failed
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : STREAM
+Request data                      : No storage server found
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server reconnected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : STREAM
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : WRITE
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : CONNECT
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : CONNECT
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : CONNECT
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 8
+Request type                      : CONNECT
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : CONNECT
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : CONNECT
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : CONNECT
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : CONNECT
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 10
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : WRITE
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Path not found
+Status                            : FILE_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 5
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 6
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 11
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 9
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Timeout
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : WRITE
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Storage Server : 200
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CREATE
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CREATE
+Request data                      : Response received from storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : CREATE
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CREATE
+Request data                      : Response received from storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : LIST
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8011
+Request type                      : LIST
+Request data                      : Failed to receive response from storage server
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : LIST
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8011
+Request type                      : LIST
+Request data                      : Failed to receive response from storage server
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : LIST
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : LIST
+Request data                      : Finished sending data
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 9
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping failed
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Backup storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 4
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 100
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Storage Server : 200
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CONNECT
+Request data                      : Server connected
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CREATE
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CREATE
+Request data                      : Response received from storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CREATE
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8005
+Request type                      : CREATE
+Request data                      : Response received from storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : LIST
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8011
+Request type                      : LIST
+Request data                      : Failed to receive response from storage server
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : LIST
+Request data                      : Request sent to storage server
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 8011
+Request type                      : LIST
+Request data                      : Failed to receive response from storage server
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : CONNECT
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Primary storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping failed
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Backup storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping failed
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Backup storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping failed
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Backup storage server found
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Request Received
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 10
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping failed
+Status                            : STORAGE_SERVER_NOT_FOUND
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 6
+Request type                      : CONNECT
+Request data                      : Ping sent
+Status                            : SUCCESS
+
+Communicating with Storage Server : 0
+NFS Port number                   : 8080
+Storage Server Port number        : 0
+Request type                      : UNKNOWN
+Request data                      : Ping received
+Status                            : SUCCESS
+
+Communicating with Client
+NFS Port number                   : 8080
+Client Port number                : 5
+Request type                      : READ
+Request data                      : Backup storage server found
+Status                            : SUCCESS
+
